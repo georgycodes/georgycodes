@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:21262D&height=220&section=header&text=Georgy%20Antony%20Pious&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=AI%20and%20Data%20Science%20student%20%C2%B7%20aspiring%20LLM%20systems%20engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="assets/hero.jpg" width="100%"/>
+
+<br>
+
+# Georgy Antony Pious
+
+**AI & Data Science student · aspiring LLM systems engineer**
 
 </div>
 
